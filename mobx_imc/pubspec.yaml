@@ -1,0 +1,27 @@
+name: mobx_imc
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mobx: ^2.1.4
+  flutter_mobx: ^2.0.6+5
+  cupertino_icons: ^1.0.2
+  syncfusion_flutter_gauges: ^20.4.48
+  currency_text_input_formatter: ^2.1.8
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  mobx_codegen: ^2.1.1
+  build_runner: 
+
+flutter:
+  uses-material-design: true
+   

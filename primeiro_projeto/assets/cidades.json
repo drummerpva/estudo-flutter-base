@@ -1,0 +1,38 @@
+[
+  {
+    "cidade":"São Paulo",
+    "estado": "SP"
+  },
+  {
+    "cidade":"Guarulhos",
+    "estado": "SP"
+  },
+  {
+    "cidade":"Papanduva",
+    "estado": "SC"
+  },
+  {
+    "cidade":"Mafra",
+    "estado": "SC"
+  },
+  {
+    "cidade":"Joinville",
+    "estado": "SC"
+  },
+  {
+    "cidade":"Porto União",
+    "estado": "SC"
+  },
+  {
+    "cidade":"Curitiba",
+    "estado": "PR"
+  },
+  {
+    "cidade":"Lages",
+    "estado": "SC"
+  },
+  {
+    "cidade":"Campo do Tenente",
+    "estado": "PR"
+  }
+]
